@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ded14147.css",
+    "main.js": "/static/js/main.2e71405d.js",
+    "static/js/787.75ace299.chunk.js": "/static/js/787.75ace299.chunk.js",
+    "static/media/autodraw 6_25_2023.png": "/static/media/autodraw 6_25_2023.741a3642ee8db761511f.png",
+    "static/media/back-removebg-preview.png": "/static/media/back-removebg-preview.59012b25bec0bd5347d5.png",
+    "static/media/front-removebg-preview.png": "/static/media/front-removebg-preview.26983b79b6e3de0b7df7.png",
+    "static/media/autodraw.png": "/static/media/autodraw.0f58fa667c137021b0b3.png",
+    "static/media/left-removebg-preview.png": "/static/media/left-removebg-preview.703a4d53dd87d92f9b48.png",
+    "static/media/fl-removebg-preview.png": "/static/media/fl-removebg-preview.4f98a3790cdca2b94a11.png",
+    "static/media/nice-removebg-preview.png": "/static/media/nice-removebg-preview.ee89834435e5b22ad30b.png",
+    "static/media/ok.png": "/static/media/ok.6b498483af4725457b3e.png",
+    "static/media/transcend.png": "/static/media/transcend.bb7d7e499721f21af0a2.png",
+    "static/media/model1-removebg-preview.png": "/static/media/model1-removebg-preview.db6977291c328dc3545f.png",
+    "static/media/nog-removebg-preview.png": "/static/media/nog-removebg-preview.fe5f42669c301783ae4e.png",
+    "static/media/hoodie.jpg": "/static/media/hoodie.34e1c999299aba63b138.jpg",
+    "static/media/Untitledbuttons.jpg": "/static/media/Untitledbuttons.73d63382136fd1fedef7.jpg",
+    "static/media/CHARLEY.otf": "/static/media/CHARLEY.07aec771671613ec908f.otf",
+    "static/media/Leisha.ttf": "/static/media/Leisha.e0f246f9e0fbc698a898.ttf",
+    "static/media/linkup.jpg": "/static/media/linkup.eb122d0d82c0f279ddf5.jpg",
+    "static/media/linkup2.jpg": "/static/media/linkup2.935643742180afc19e01.jpg",
+    "static/media/linkup3.jpg": "/static/media/linkup3.f87f6780889c189f70d9.jpg",
+    "static/media/AireExterior.ttf": "/static/media/AireExterior.15b016e35bb0c808bf19.ttf",
+    "static/media/fw2.jpg": "/static/media/fw2.b8c1d5e1666195c66f24.jpg",
+    "static/media/fw1.jpg": "/static/media/fw1.a4d0822ebc9436d7d13e.jpg",
+    "static/media/fw.jpg": "/static/media/fw.24ae94a524e594333651.jpg",
+    "static/media/BlueOcean-YzBDa.woff": "/static/media/BlueOcean-YzBDa.a8e7621ad8c204dc1aaf.woff",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/zara1.jpg": "/static/media/zara1.1f72275b887ed0f94cd3.jpg",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "static/media/filter.svg": "/static/media/filter.6ee7dc571a0ef90f7f727becfbcf9c0f.svg",
+    "main.ded14147.css.map": "/static/css/main.ded14147.css.map",
+    "main.2e71405d.js.map": "/static/js/main.2e71405d.js.map",
+    "787.75ace299.chunk.js.map": "/static/js/787.75ace299.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ded14147.css",
+    "static/js/main.2e71405d.js"
+  ]
+}
