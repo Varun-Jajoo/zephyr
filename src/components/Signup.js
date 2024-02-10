@@ -17,7 +17,7 @@ export default function Signup() {
    const onSubmit=async(e)=>{
     e.preventDefault();
     const{name ,email, password}=User;
-    const res= await fetch('http://localhost:3001/api/auth/createuser',{
+    const res= await fetch('https://login-25tx.onrender.com/api/auth/createuser',{
         method:"POST",
         headers:{
             'Content-Type':"application/json"

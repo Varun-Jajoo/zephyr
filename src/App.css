@@ -313,7 +313,7 @@ body{
   display: grid;
   grid-template-columns: 7vw 7vw 7vw 8vw 7vw 7vw;
   grid-template-rows:3vw 7vw 7vw 1vw;
-  background-image: url("D:\Varun\clothing\clothing\src\components\nice-removebg-preview.png");
+  background-image: url("D:\Varun\clothing\zephyr\src\components\nice-removebg-preview.png");
   background-position: center center;
   background-size: contain;
   background-repeat: no-repeat;
@@ -1042,7 +1042,7 @@ h3{
   cursor: pointer;
 }
 .drawop{
-  background-image: url("D:\Varun\clothing\clothing\src\components\autodraw 6_25_2023.png");
+  background-image: url("D:\Varun\clothing\zephyr\src\components\autodraw 6_25_2023.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size:cover;
@@ -1052,7 +1052,7 @@ h3{
   left: 0;
 }
 .drawop2{
-  background-image: url("D:\Varun\clothing\clothing\src\components\autodraw.png");
+  background-image: url("D:\Varun\clothing\zephyr\src\components\autodraw.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size:cover;
